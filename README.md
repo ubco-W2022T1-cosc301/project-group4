@@ -2,11 +2,11 @@
 
 ## Milestones
 
-Milestone 1 - Form Team and Find Dataset
-Milestone 2 - Create repository and Load Dataset
-Milestone 3 - Data Analysis
-Milestone 4 - Present your Dashboard!
-Milestone 5 - Address Feedback and Refine project
+- Milestone 1 - Form Team and Find Dataset
+- Milestone 2 - Create repository and Load Dataset
+- Milestone 3 - Data Analysis
+- Milestone 4 - Present your Dashboard!
+- Milestone 5 - Address Feedback and Refine project
 
 ## Describe your topic/interest in about 150-200 words
 
