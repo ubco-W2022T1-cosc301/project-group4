@@ -22,7 +22,7 @@ With our analysis we hope to see the relationships between financial markers and
 
 
 - Vishesh: I love fortnite.
-- Person 2: one sentence about you!
+- Charly: Viva México
 - Person 3: one sentence about you!
 
 ## Images
