@@ -22,8 +22,8 @@ With our analysis we hope to see the relationships between financial markers and
 
 
 - Vishesh: I love fortnite.
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Carlos: I love Mexico.
+- Adam: I love Butter Chicken.
 
 ## Images
 
