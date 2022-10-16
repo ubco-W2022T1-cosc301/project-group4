@@ -22,8 +22,8 @@ With our analysis we hope to see the relationships between financial markers and
 
 
 - Vishesh: I love fortnite.
-- Carlos: I love Mexico.
-- Adam: I love Butter Chicken.
+- Charly: Viva México
+- Adam: I love butter chicken.
 
 ## Images
 
