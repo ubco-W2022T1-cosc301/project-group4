@@ -5,7 +5,7 @@ def load_and_process(url_or_path_to_csv_file):
       .pipe(lambda x: x.replace({'\$': '', ',': '', '%': '', '\(':'', '\)':'',}, regex=True))
       .replace('-', np.nan).dropna(subset=['revenues', 'revenue_percent_change', 'profits','profits_percent_change', 'assets', 'market_value',     'employees']))
     df2 = (df1.assign(price_to_earnings_ratio = lambda x: x['market_value'].astype(float)/x['profits'].astype(float))
-          .assign(expenses = lambda x: x['revenues'].astype(float)-x['profits'].astype(float)))
+          .assign(profit_margin = lambda x: x['profits'].astype(float)/x['revenues'].astype(float)))
     
     flt_cols = [x for x in df2.columns if df2.dtypes[x] != 'float64']
     flt_cols.remove('name')
