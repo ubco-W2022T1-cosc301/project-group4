@@ -106,3 +106,5 @@ Summary/Conclusion:
 
 The first thing that we learned from this project is that the relationship between profits and the number of employees doesn't seem to hold. Additionally, with profit, we expected to see a decline in the number of employees. However, this was also not the case, as no relationship was seen between profit and the number of employees. This indicates that these two variables have no perceptible impact on the monetary values of the companies.
 
+We learned that relationship between assets and profits is not exactly a linear relationship. From the graphs we can see that having high assets will not necessarily correlate to having high profits. This does not align with the initial prediction that having high assets will in turn mean that there will be higher profits. 
+
