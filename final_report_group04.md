@@ -1,4 +1,4 @@
-# Introduction: 
+    # Introduction: 
 
 The top Fortune 1000 firms' revenue, market value, assets, profit percentage change, employees, ranking change, and revenue percentage change for the year 2022 are all included in this dataset. All of these numbers are publicly available. On Kaggle, this specific dataset was discovered. Our dataset aims to provide a deeper understanding of the financial markets by analysing the most successful businesses worldwide. Public corporations that are listed on the US stock exchange are required to provide the government with their financial reports, which is how our data is gathered. The Fortune magazine compiled and reported on this information. By analysing this dataset, we can further understand the relationships between the amount of money a company makes compared to other variables present that may alter this. Interpreting and understanding these relationships can be key while predicting stocks.
 
@@ -84,6 +84,12 @@ By browsing in our data, we can find those companies that have the best relation
 - Digital reality Trust
 - American Water Works
 - Signature Bank
+
+### Conclussion:
+
+When talking about investments, one has to think of the movements that fit better for each person and each budget, and of course, there are more than two parameters that determine which will be the best company for someone to invest on. However, this is a useful guide which could be developed with the basic information provided in this dataset.
+
+From this project, and the whole course learnings, I keep subtantial useful knowledge such as Python programming, the use of Pandas and Seaborn libraries for data analysis and visualization, but most importantly, critical thinking that allows me to analyze which information is useful or not, and which is correctly or misinterpreted.
 
 # Question 3 + Results: What is the relationship that assets has on profits
 ![Adam_Graph_1](./images/adam1.png)
