@@ -89,7 +89,6 @@ By browsing in our data, we can find those companies that have the best relation
 
 When talking about investments, one has to think of the movements that fit better for each person and each budget, and of course, there are more than two parameters that determine which will be the best company for someone to invest on. However, this is a useful guide which could be developed with the basic information provided in this dataset.
 
-From this project, and the whole course learnings, I keep subtantial useful knowledge such as Python programming, the use of Pandas and Seaborn libraries for data analysis and visualization, but most importantly, critical thinking that allows me to analyze which information is useful or not, and which is correctly or misinterpreted.
 
 # Question 3 + Results: What is the relationship that assets has on profits
 ![Adam_Graph_1](./images/adam1.png)
@@ -110,7 +109,11 @@ Now that we have reduced profits even more to 4000, we can now see a very slight
 
 Summary/Conclusion:
 
+Vishesh:
 The first thing that we learned from this project is that the relationship between profits and the number of employees doesn't seem to hold. Additionally, with profit, we expected to see a decline in the number of employees. However, this was also not the case, as no relationship was seen between profit and the number of employees. This indicates that these two variables have no perceptible impact on the monetary values of the companies.
 
+Adam:
 We learned that relationship between assets and profits is not exactly a linear relationship. From the graphs we can see that having high assets will not necessarily correlate to having high profits. This does not align with the initial prediction that having high assets will in turn mean that there will be higher profits. 
 
+Carlos:
+From this project, and the whole course learnings, I keep subtantial useful knowledge such as Python programming, the use of Pandas and Seaborn libraries for data analysis and visualization, but most importantly, critical thinking that allows me to analyze which information is useful or not, and which is correctly or misinterpreted.
